@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name AP5100WG-7)(type Legacy)(uri ${KIPRJMOD}/libs/AP5100WG-7.lib)(options "")(descr ""))
+)

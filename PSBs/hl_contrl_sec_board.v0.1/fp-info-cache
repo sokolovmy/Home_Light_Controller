@@ -1,0 +1,106 @@
+24075655339822
+holse
+IDC-Header_2x10_P2.54mm_Horizontal
+Through hole IDC box header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
+Through hole horizontal IDC box header THT 2x10 2.54mm double row
+0
+20
+20
+holse
+LQFP-48_7x7mm_P0.5mm
+LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+48
+48
+holse
+PhoenixContact_MCV_1,5_2-G-5.08_1x02_P5.08mm_Vertical
+Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-5.08; number of pins: 02; pin pitch: 5.08mm; Vertical || order number: 1836299 8A 320V
+phoenix_contact connector MCV_01x02_G_5.08mm
+0
+2
+2
+holse
+PhoenixContact_MCV_1,5_8-G-5.08_1x08_P5.08mm_Vertical
+Generic Phoenix Contact connector footprint for: MCV_1,5/8-G-5.08; number of pins: 08; pin pitch: 5.08mm; Vertical || order number: 1836354 8A 320V
+phoenix_contact connector MCV_01x08_G_5.08mm
+0
+8
+8
+holse
+PinHeader_1x11_P2.54mm_Vertical
+Through hole straight pin header, 1x11, 2.54mm pitch, single row
+Through hole pin header THT 1x11 2.54mm single row
+0
+11
+11
+holse
+PinSocket_1x06_P2.54mm_Vertical
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
+holse
+PinSocket_1x11_P2.54mm_Vertical
+Through hole straight socket strip, 1x11, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x11 2.54mm single row
+0
+11
+11
+holse
+PinSocket_2x09_P2.54mm_Horizontal
+Through hole angled socket strip, 2x09, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
+Through hole angled socket strip THT 2x09 2.54mm double row
+0
+18
+18
+holse
+R_Array_Convex_4x0603
+Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)
+resistor array
+0
+8
+8
+holse
+R_Array_Convex_4x0603_reverse
+Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)
+resistor array
+0
+8
+8
+holse
+Relay_DPST_Schrack-RT2-FormA_RM5mm
+Relay DPST Schrack-RT2 RM5mm 16A 250V AC Form A http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=RT2_reflow&DocType=DS&DocLang=EN
+Relay DPST Schrack-RT2 RM5mm 16A 250V AC Relay
+0
+6
+6
+holse
+SOT26
+
+
+0
+6
+6
+holse
+SOT95P285X140-6N
+AP5100WG-7-1
+Power Supply
+0
+6
+6
+holse
+USB_Micro-B_Molex-105133-0001
+Molex Vertical Micro USB Typ-B (http://www.molex.com/pdm_docs/sd/1051330001_sd.pdf)
+Micro-USB SMD Typ-B Vertical
+0
+8
+6
+holse
+sod80c
+SOD80C
+
+0
+2
+2

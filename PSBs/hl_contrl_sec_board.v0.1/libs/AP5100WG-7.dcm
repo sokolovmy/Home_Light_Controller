@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP5100WG-7
+D DiodesZetex, AP5100WG-7 DC-DC Converter 1.2A Adjustable, 0.81  15 V, 3-Pin SOT-26
+K
+F https://componentsearchengine.com/Datasheets/1/AP5100WG-7.pdf
+$ENDCMP
+#
+#End Doc Library
