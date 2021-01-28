@@ -1,0 +1,7 @@
+main.c:72:6:SendData	32	static
+main.c:84:6:LedsWalk	24	static
+main.c:100:6:ledsStartCheck	8	static
+main.c:178:6:SystemClock_Config	88	static,ignoring_inline_asm
+main.c:122:5:main	8	static
+main.c:232:6:HAL_TIM_PeriodElapsedCallback	0	static
+main.c:249:6:Error_Handler	0	static,ignoring_inline_asm
